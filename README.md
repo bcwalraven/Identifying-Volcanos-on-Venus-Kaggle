@@ -1,1 +1,1 @@
-# Indentifying-Venus-Volcanos-Kaggle-
+# Identifying-Venus-Volcanos-Kaggle
